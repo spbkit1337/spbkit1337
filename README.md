@@ -1,4 +1,4 @@
-# Привет!👋
+# Салют!👋
 
 ## Меня зовут Максим, я веб-разработчик🤠
 
@@ -12,9 +12,10 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=001c33)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-370564?style=for-the-badge&logo=bootstrap)
+![Gulp](https://img.shields.io/badge/-Gulp-f7e61c?style=for-the-badge&logo=gulp)
 
 
 ### Связь со мной:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@lucky_i1)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lucky_i1)
 
     

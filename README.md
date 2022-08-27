@@ -18,7 +18,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-370564?style=for-the-badge&logo=bootstrap)
 
 ### Декстоп приложения:
-<img src="https://img.shields.io/badge/-ЦВЕТ ФОНА?style=for-the-badge&logo=C Sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C SHARP-black?style=for-the-badge&logo=C Sharp&logoColor=white"/>
 
 ### Работа с макетами:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=001c33)
